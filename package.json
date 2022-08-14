@@ -41,6 +41,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://geo.ipify.org/api/v2",
-  "homepage": "https://muhammadarham-43.github.io/ip_tracker"
+  "proxy": "https://geo.ipify.org/api/v2"
 }
