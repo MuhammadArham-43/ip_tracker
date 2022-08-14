@@ -26,7 +26,7 @@ function App() {
     }
 
     const res = await axios.get(
-			`/country,city?apiKey=at_BaYbdhnJkiKQP1hGUZkcp5Osb4k4c&ipAddress=${ip}`,
+			`https://geo.ipify.org/api/v2/country,city?apiKey=at_BaYbdhnJkiKQP1hGUZkcp5Osb4k4c&ipAddress=${ip}`,
 			{
 				headers: {
 					"Allow-Control-Access-Origin": "*",
